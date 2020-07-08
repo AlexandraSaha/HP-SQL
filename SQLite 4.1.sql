@@ -1,6 +1,6 @@
 INSERT INTO courses (course_name, course_type, professor_lastname, professor_firstname)
 VALUES ('Astronomy', 'Core', 'Sinistra', 'Aurora'),
-		('Charms', 'Core', 'Flitwick', 'Fillius'),
+	('Charms', 'Core', 'Flitwick', 'Fillius'),
         ('Defense Against the Dark Arts', 'Core', 'Lupin', 'Remus'),
         ('Flying', 'Core', 'Hooch', 'Rolanda'),
         ('Herbology', 'Core', 'Sprout', 'Pomona'),
